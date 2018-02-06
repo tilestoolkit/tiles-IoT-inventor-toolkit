@@ -1,0 +1,10 @@
+v.063
+- Added sponsor card
+- Corrected typos in missions and criteria
+- Changed ‘data channels’ with ‘services’
+
+v.062
+- Changed card dimension to poker standards 88x63mm
+- Corrected typos
+- fixed a 3mm color border on each card
+
