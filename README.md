@@ -3,7 +3,6 @@
 Tiles is an inventor toolkit 💡 for creative people, students and non-experts to play, learn and ideate human-centric Internet of Things inventions, while having fun.
 
 This repository contains source and PDF files for Tiles Cards and the Tiles Inventor Board.
-http://tilestoolkit.io/
 
 
 # Cards
