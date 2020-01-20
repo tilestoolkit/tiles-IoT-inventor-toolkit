@@ -2,7 +2,14 @@
 
 Tiles is an inventor toolkit 💡 for creative people, students and non-experts to play, learn and ideate human-centric Internet of Things inventions, while having fun.
 
-This repository contains source and PDF files for Tiles Cards and the Tiles Inventor Board.
+Tiles proposes the 17 UN Sustainable Development Goals as design scenarios.
+
+This repository contains the source PDF files for the Tiles IoT Inventor Toolkit. You can print the PDFs on a regular A4 color printer.
+
+
+# Tranlsation
+
+Translations for English 🇺🇸 (en_US) and Norwegian Bokmål 🇳🇴 (nb_NO) are complete and available. You can contribute translating the toolkit in your language, see [tilestoolkit/tiles-iot-inventor-toolkit-i18n](https://github.com/tilestoolkit/tiles-iot-inventor-toolkit-i18n).
 
 
 # Cards
@@ -26,7 +33,7 @@ Become an IoT inventor! It's now as easy as playing a card game:
 
 ## Tiles IoT Inventor Workshop
 
-While the Tiles IoT Inventor Cards are great for brainstorming sessions, we have designed a workshop experience for teams of inventors 🤓. The Tiles IoT Inventor Workshop is a great way to learn the foundations of IoT and design thinking while ideating an IoT invention to solve a given societal problem (e.g. climate change 🌪, waste reduction ♻️, social segregation).
+While the Tiles IoT Inventor Cards are great for brainstorming sessions, we have designed a workshop experience for teams of inventors 🤓. The Tiles IoT Inventor Workshop is a great way to learn the foundations of IoT and design thinking while ideating an IoT invention to solve the Sustainable Development Goals from the UN (e.g. climate change 🌪, waste reduction ♻️, social segregation).
 
 During a 1-hour ⏰ workshop, participants fast-pace through a set of 6 design thinking 🧠 activities: explore 👀, challenge ⚔️, combine 🥘, sketch ✏️, refine 🔜 and pitch 🎤 to collaboratively converge towards an IoT invention idea 💥. The outcome of the workshop is a storyboard and an elevator pitch ready to be used to drive prototyping actions 🥽, collaborative discussion and reflection.
 
