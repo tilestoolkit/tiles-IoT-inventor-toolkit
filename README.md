@@ -7,7 +7,7 @@ Tiles proposes the 17 UN Sustainable Development Goals as design scenarios.
 This repository contains the source PDF files for the Tiles IoT Inventor Toolkit. You can print the PDFs on a regular A4 color printer.
 
 
-# Tranlsation
+# Translation
 
 Translations for English 🇺🇸 (en_US) and Norwegian Bokmål 🇳🇴 (nb_NO) are complete and available. You can contribute translating the toolkit in your language, see [tilestoolkit/tiles-iot-inventor-toolkit-i18n](https://github.com/tilestoolkit/tiles-iot-inventor-toolkit-i18n).
 
